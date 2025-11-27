@@ -1,4 +1,4 @@
-## hytale-kt
+## HytaleKt
 
 We're building Kotlin libraries for Hytale server plugin development.
 
